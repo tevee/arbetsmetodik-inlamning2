@@ -12,4 +12,3 @@ function isPalindrome(string) {
 console.log(isPalindrome("racecar"));
 
 module.exports = isPalindrome;
-
